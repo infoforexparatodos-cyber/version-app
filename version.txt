@@ -1,1 +1,37 @@
-﻿3.9|2025-10-08
+{
+  "versionActual": "3.0",
+  "mostrarNuevaVersion": "Si",
+  "Blocked": "No",
+  "nuevaVersion": {
+    "numero": "3.1",
+    "fechaExpiracion": "2025-10-25"
+  },
+  "mensajesDinamicos": [
+    {
+      "titulo": "¡Novedad! Nuevo Algoritmo de IA",
+      "texto": "Hemos implementado un nuevo algoritmo que mejora la precisión en un 15% para las predicciones a corto plazo."
+    },
+    {
+      "titulo": "Próximos Mantenimientos",
+      "texto": "El servicio estará fuera de línea por mantenimiento programado el 26 de octubre de 2025, de 02:00 a 04:00 AM (UTC-5)."
+    },
+    {
+      "titulo": "Tutoriales en Video",
+      "texto": "¡Ya están disponibles nuestros nuevos tutoriales! Aprende a usar las funciones avanzadas en nuestro canal de YouTube.",
+      "enlace": "https://www.youtube.com/@tunombredeusuario",
+      "textoEnlace": "Ir al canal de YouTube"
+    },
+    {
+      "titulo": "Webinar Exclusivo",
+      "texto": "Te invitamos a un webinar gratuito sobre las nuevas funcionalidades de la versión 3.1. ¡Regístrate ahora!"
+    },
+    {
+      "titulo": "Encuesta de Satisfacción",
+      "texto": "Ayúdanos a mejorar. Responde nuestra breve encuesta y cuéntanos tu experiencia con la aplicación."
+    },
+    {
+      "titulo": "Consejo del Día",
+      "texto": "Recuerda revisar el rendimiento de tus modelos al inicio de cada jornada para optimizar los resultados."
+    }
+  ]
+}
